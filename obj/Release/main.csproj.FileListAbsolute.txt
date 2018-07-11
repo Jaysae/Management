@@ -1,0 +1,5 @@
+D:\cpp\c#\main\main\obj\Release\main.Form1.resources
+D:\cpp\c#\main\main\obj\Release\main.Properties.Resources.resources
+D:\cpp\c#\main\main\obj\Release\main.z_c.resources
+D:\cpp\c#\main\main\obj\Release\main.csproj.GenerateResource.Cache
+D:\cpp\c#\main\main\obj\Release\main.csproj.CoreCompileInputs.cache
